@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amostra News</title>
+    <link rel="stylesheet" href="style.css">
+   
+</head>
+
+<body>
+    <header>
+        <h1>IBM</h1>
+
+
+        <nav>
+            <ul class="barra">
+                <li class="barra.cel">
+                    <a href="#">Produtos</a>
+                </li>
+                <li class="barra.cel">
+                    <a href="#">Soluções</a>
+                </li>
+                <li class="barra.cel">
+                    <a href="#">Consultoria</a>
+                </li>
+                <li class="barra.cel">
+                    <a href="#">Suporte</a>
+                </li>
+                <li class="barra.cel">
+                    <a href="#">Mais</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <article class="artigo">
+            <h2>Desbloqueie o futuro com IA e computação quântica</h2>
+            <p>Entre em uma nova era que une IA e computação quântica para resolver problemas complexos em uma velocidade fora do comum</p>
+            <button>Saiba mais</button>
+        </article>
+
+        <article class="artigo">
+            <h2>Tecnologia e consultoria</h2>
+            <p>A IBM oferece desde IA de última geração e soluções avançadas de nuvem híbrida até o vasto conhecimento da IBM Consulting para ajudar você a transformar sua empresa na era da IA.</p>
+            <button>Saiba mais</button>
+        </article>
+
+        <article class="artigo">
+            <h2>Dê o próximo passo</h2>
+            <p>Resolver os problemas do mundo por meio da tecnologia não seria possível sem pessoas com as habilidades certas. Veja o que é preciso para se tornar um profissional da IBM ou desenvolva suas habilidades com nossos cursos educacionais.</p>
+            <button>Saiba mais</button>
+        </article>
+    </main>
+
+    <aside class="lado">
+        <div class="tit-lado">
+            <h3>Assuntos em alta</h3>
+        </div>
+
+        <div class="ladinho">
+            <a class="link" href="#">Inovação em Soluções de TI</a>
+            <br>
+            <a class="lad" href="">A IBM está na vanguarda da transformação digital, oferecendo soluções que ajudam empresas a se adaptarem ao futuro. </a>
+        </div>
+
+        <div class="ladinho">
+            <a class="link" href="#">Cloud Computing e IA</a>
+            <br>
+            <a class="lad" href="">Exploramos a inteligência artificial e a computação em nuvem para criar ambientes flexíveis e escaláveis...</a>
+        </div>
+
+        <div class="ladinho">
+            <a class="link" href="#">Sustentabilidade e Responsabilidade Social</a>
+            <br>
+            <a class="lad" href="">Na IBM, acreditamos que a tecnologia pode transformar a sociedade de forma positiva. Investimos em soluções sustentáveis e...</a>
+        </div>
+
+        <div class="ladinho">
+            <a class="link" href="#">Blockchain para Empresas</a>
+            <br>
+            <a class="lad" href="">Utilizando blockchain, a IBM está transformando a forma como as empresas realizam transações seguras e...</a>
+        </div>
+
+    </aside>
+
+    <footer>
+        <h6>
+            © Copyright 2020 IBM.
+        </h6>
+    </footer>
+</body>
+</html>
